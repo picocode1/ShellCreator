@@ -1,6 +1,8 @@
 # ShellCreator
 Create a fast reverse shell via the CLI
 
+Currently only tested on Windows 10
+
 ### Feature list
 
 - [x] Local network detection.
