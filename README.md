@@ -3,6 +3,12 @@ Create a fast reverse shell via the CLI
 
 Currently only tested on Windows 10
 
+### Usage:
+
+```console
+npx shellcreator
+```
+
 ### Feature list
 
 - [x] Local network detection.
